@@ -1,5 +1,6 @@
 requests
 gradio
 pypdf
-openai
+anthropic
 python-dotenv
+huggingface_hub
